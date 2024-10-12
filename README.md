@@ -47,5 +47,5 @@ The principal component analysis is an unsupervised machine learning algorithm u
 Principal components are the derived features which explain the maximum variance in the data. The first principal component explains the most variance, the 2nd a bit less and so on. Each of the new dimensions found using PCA is a linear combination of the old features.
 
 Let's take the following example where the data is distributed like the diagram on the left:
-<img src="PCA_intro1.PNG" width="500">
+![](https://github.com/rashid-datawiz/ML-PCA/blob/master/scree.PNG)
 
